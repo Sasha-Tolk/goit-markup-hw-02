@@ -139,13 +139,13 @@ footer .logo {
 .address {
   color: var(--main-color);
 }
-address p {
+address a {
   font-style: normal;
   font-size: 14px;
   line-height: 1.7;
 }
-address p:hover,
-address p:focus {
+address a:hover,
+address a:focus {
   color: var(--accent-color);
 }
 /*FOOTER*/
